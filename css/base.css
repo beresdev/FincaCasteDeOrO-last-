@@ -1,0 +1,35 @@
+:root {
+    --brand-color: #ffcc33;
+    --secondary-yellow: #ffff00;
+    --red-color:#c10e0e;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Amatic SC', cursive;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Special Elite', cursive;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+main {
+    z-index: -3;
+    background-color: black;
+}
